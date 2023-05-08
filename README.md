@@ -25,18 +25,22 @@ CV1
 
 ## Esercizio 2A
 
-[Trittico_Parole](/Esercizio_2A/template/index.html) 
+[Forma_e_Senso](/Esercizio_2A/template/index.html) 
 
 
 ## Esercizio 2B
 
-[Parola_in_Movimento_2](/Esercizio_2B/template/Caffè_2.html) 
-[Parola_in_Movimento_3](/Esercizio_2B/template/Caffè_3.html) 
+[Parola_in_Movimento_2](/Esercizio_2B/template/Caffè_2.html)  
+[Parola_in_Movimento_3](/Esercizio_2B/template/Caffè_3.html)   
 
 
 ## Esercizio 3
 
 [Prova_di_Disegno](/Esercizio_3/esempi/1_disegno/index.html) 
+
+
+
+
 
 
 
