@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Elia Jacop" />
-	<title>Parola in Movimento 3</title>
+	<title>Parola in Movimento 2</title>
 	<style type="text/css">
 		html{
 			height:100%;
@@ -21,16 +21,22 @@
 	</style>
 </head>
 <body>
+	
+	<div style="text-align: center">
+		<img src="/Users/eliacsia/Desktop/SUPSI/03. Lezioni/CV 214.02 Grafica in Movimento /GIM–2023/Esercizio_2B/template/img/Swissair-Logo/Swissair-Logo_2.gif"></src>
+	</div>
+	
 	<script type="module">
 
 		import Sequencer from './js/sequencer.min.js';
 
 		Sequencer.make({
-			from         	 : "img/Caffè_3/1.png",
-			to           	 : "img/Caffè_3/3.png",
+			canvas       	 : document.querySelector("canvas"),
+			from         	 : "Swissair-Logo_2.gif",
+			to           	 : "Swissair-Logo_2.gif",
 			playMode     	 : "auto",
 			loop         	 : "loop", // "pong"
-			interval     	 : 800,
+			interval     	 : 1000,
 		})
 	</script>
 </body>
