@@ -30,8 +30,7 @@ CV1
 
 ## Esercizio 2B
 
-[Parola_in_Movimento_2](/Esercizio_2B/template/Caffè_2.html)  
-[Parola_in_Movimento_3](/Esercizio_2B/template/Caffè_3.html)   
+[Parola_in_Movimento](/Esercizio_2B/template/Swissair-Logo.html)  
 
 
 ## Esercizio 3
