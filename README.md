@@ -35,9 +35,9 @@ CV1
 
 ## Esercizio 3
 
-[Prova_di_Disegno](/Esercizio_3/esempi/1_disegno/index.html)  
 [Pong](/Esercizio_3/esempi/2_disegno/index.html)  
 [Pioggia](/Esercizio_3/esempi/3_disegno/index.html)  
+[Sprinkles Snow](/Esercizio_3/esempi/4_disegno/index.html)
 
 
 
