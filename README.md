@@ -40,7 +40,11 @@ CV1
 [Sprinkles Snow](/Esercizio_3/esempi/4_disegno/index.html)
 
 
+## Esercizio 4
 
+[L'incontro tra digitale e analogico](Esercizio_4/Orologio_Personale_2/index.html)  
+Vuole essere l'unione delle due tipologie di orologi, tenendo solo le parti più caratteristiche di entrambi.
+Del analogico si è presa la posizione nello spazio del quadrante, mentre del digitale si è tenuta la lettura di numeri.
 
 
 
